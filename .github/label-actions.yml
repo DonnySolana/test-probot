@@ -1,15 +1,7 @@
-name: 'Label Actions'
-
-on:
+stackExchangeQuestion:
   issues:
-    types: [labeled, unlabeled]
-
-permissions:
-  contents: read
-  issues: write
-
-jobs:
-  action:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: dessant/label-actions@v2
+    # Post a comment, `{issue-author}` is an optional placeholder
+    comment: >
+      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
+    # Close the issue
+    close: true
