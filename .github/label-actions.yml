@@ -3,5 +3,19 @@ stackExchangeQuestion:
     # Post a comment, `{issue-author}` is an optional placeholder
     comment: >
       :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
+      
+      
+      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
+      
+      
+      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
+      and some more as well! possibly more
+      maybe something new
+      
+      just maybe
+      
+      
+      ok. here we go!
+      
     # Close the issue
     close: true
