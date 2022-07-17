@@ -2,20 +2,17 @@ stackExchangeQuestion:
   issues:
     # Post a comment, `{issue-author}` is an optional placeholder
     comment: >
-      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
+      Hi @{issue-author}, 
       
-      
-      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
-      
-      
-      :wave: @{issue-author}, please use our [stack exchange](https://solana.stackexchange.com/questions) to help answer your question!
-      and some more as well! possibly more
-      maybe something new
-      
-      just maybe
-      
-      
-      ok. here we go!
+      Thanks for your question!
+
+
+      We want to make sure to keep signal strong in the GitHub issue tracker – to make sure that it remains the best place to track 
+      issues that affect the development of Solana itself.
+
+
+      Questions like yours deserve a purpose-built Q&A forum. Unless you have evidence that this is a bug with Solana itself, please 
+      post your question to the Solana Stack Exchange using this link: https://solana.stackexchange.com/questions/ask
       
     # Close the issue
     close: true
